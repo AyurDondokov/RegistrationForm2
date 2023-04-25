@@ -1,0 +1,2 @@
+Кирилл|Августов|augustInMe@mail.ru|924-324-9388|business|webmoney|false|127.0.0.1|active
+Кирилл1|Августов|augustInMe@mail.ru|924-324-9388|business|webmoney|false|127.0.0.1|active
